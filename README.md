@@ -1,5 +1,5 @@
-# CS-537_Spring-2015
-CS-537 This repository is for git and gitHub practice.
+# github practice playground
+This repository is for git and gitHub practice.
 
 Do what you want here. Try things out that you are unsure about.
 
